@@ -22,4 +22,14 @@
 
 .fc-daygrid-day:hover {
     background-color: #f0f0f0; /* Light grey on hover */
+   
+}
+
+
+.fc-toolbar-title {
+    font-size: 1.5rem; /* Custom title font size */
+}
+
+.fc-time-grid-event {
+    border-radius: 5px; /* Rounded corners for time events */
 }
